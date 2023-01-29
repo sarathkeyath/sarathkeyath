@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuldas439&label=Profile%20views&color=0e75b6&style=flat" alt="gokuldas439" /> </p>
 
-- 🔭 I currently finished my project - **Auverse Ecommerce**
+
 
 - 🌱 I’m currently learning **Full stack development**
 
