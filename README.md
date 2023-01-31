@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gokuldas_offl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokuldas_offl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gokuldas439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokuldas439" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarath-krishnan-mk-65585522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokuldas439" height="30" width="40" /></a>
 <a href="https://instagram.com/_gokul._.das_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gokul._.das_" height="30" width="40" /></a>
 <a href="https://medium.com/@gokuldas439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokuldas439" height="30" width="40" /></a>
 </p>
