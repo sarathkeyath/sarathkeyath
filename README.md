@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently working as a **Full stack development trainee**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarathkeyath](https://github.com/sarathkeyath)
 
